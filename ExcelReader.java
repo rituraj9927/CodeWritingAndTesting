@@ -9,7 +9,7 @@ public class ExcelReader {
 	
 	public static String sheetname = "testSheet" ;
 	
-	public static String sheet_path = "C:\\Users\\Sumit\\eclipse-workspace\\TestNG\\src\\readingExcelFilesUtil\\testSheet.xlsx" ;
+	public static String sheet_path = "C:\\Users\\rrajb\\eclipse-workspace\\TestNG\\src\\readingExcelFilesUtil\\testSheet.xlsx" ;
 	
 	public static Object[][] getData(String sheetname) throws Throwable{
 		
